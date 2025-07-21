@@ -8,7 +8,7 @@ Built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
 
 ## 🔗 Live Demo
 
-_(Add your live link here if hosted, e.g., GitHub Pages)_
+https://basma-yahia.github.io/todo-app/
 
 ---
 
